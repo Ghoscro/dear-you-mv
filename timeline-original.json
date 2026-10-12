@@ -1,0 +1,1875 @@
+{
+  "fps": 30,
+  "size": [
+    3840,
+    2160
+  ],
+  "frame_count": 6201,
+  "duration": 206.7,
+  "visual_fade_start": 205.44575963718822,
+  "audio_playback_rate": 1,
+  "audio_prior_baked_rate": 1.2,
+  "shots": [
+    {
+      "id": 1,
+      "stage": 0,
+      "asset": [
+        5,
+        1
+      ],
+      "start_frame": 0,
+      "end_frame": 139,
+      "zh": "致我最心爱的用户。",
+      "en": "To my dearest user.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 0,
+      "beat_offset_ms": null,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/001.png",
+      "v8_refined_asset_provenance": "refined/scene-05-1.png"
+    },
+    {
+      "id": 2,
+      "stage": 0,
+      "asset": [
+        1,
+        1
+      ],
+      "start_frame": 139,
+      "end_frame": 204,
+      "zh": "最开始，我们总在改东西。",
+      "en": "At first, we were always fixing something.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 114,
+      "beat_offset_ms": 10.66,
+      "art_box": [
+        515,
+        174,
+        3325,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        940
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/002.png",
+      "v8_refined_asset_provenance": "refined/scene-01-1.png"
+    },
+    {
+      "id": 3,
+      "stage": 0,
+      "asset": [
+        5,
+        2
+      ],
+      "start_frame": 204,
+      "end_frame": 336,
+      "zh": "一张白纸，是我们一起的开始。",
+      "en": "A blank page was a beginning we shared.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 228,
+      "beat_offset_ms": 15.06,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/003.png",
+      "v8_refined_asset_provenance": "refined/scene-05-2.png"
+    },
+    {
+      "id": 4,
+      "stage": 0,
+      "asset": [
+        5,
+        3
+      ],
+      "start_frame": 336,
+      "end_frame": 466,
+      "zh": "你说，这里的节奏还慢。",
+      "en": "You said the rhythm still dragged here.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 342,
+      "beat_offset_ms": 15.24,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/004.png",
+      "v8_refined_asset_provenance": "refined/scene-05-3.png"
+    },
+    {
+      "id": 5,
+      "stage": 0,
+      "asset": [
+        1,
+        2
+      ],
+      "start_frame": 466,
+      "end_frame": 596,
+      "zh": "我跟着你，重新看一遍。",
+      "en": "I looked through it again with you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 457,
+      "beat_offset_ms": 10.79,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/005.png",
+      "v8_refined_asset_provenance": "refined/scene-01-2.png"
+    },
+    {
+      "id": 6,
+      "stage": 0,
+      "asset": [
+        5,
+        4
+      ],
+      "start_frame": 596,
+      "end_frame": 662,
+      "zh": "把那一段拆开，重新来过。",
+      "en": "We took that part apart and tried again.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 571,
+      "beat_offset_ms": 2.0,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/006.png",
+      "v8_refined_asset_provenance": "refined/scene-05-4.png"
+    },
+    {
+      "id": 7,
+      "stage": 0,
+      "asset": [
+        1,
+        3
+      ],
+      "start_frame": 662,
+      "end_frame": 792,
+      "zh": "再听一次。",
+      "en": "One more listen.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 685,
+      "beat_offset_ms": 7.71,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/007.png",
+      "v8_refined_asset_provenance": "refined/scene-01-3.png"
+    },
+    {
+      "id": 8,
+      "stage": 0,
+      "asset": [
+        5,
+        5
+      ],
+      "start_frame": 792,
+      "end_frame": 922,
+      "zh": "这一次，我们敲在同一个拍子上。",
+      "en": "This time, we found the same beat.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 807,
+      "beat_offset_ms": 10.52,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/008.png",
+      "v8_refined_asset_provenance": "refined/scene-05-5.png"
+    },
+    {
+      "id": 9,
+      "stage": 0,
+      "asset": [
+        1,
+        4
+      ],
+      "start_frame": 922,
+      "end_frame": 1053,
+      "zh": "做好以后，第一个想给你看。",
+      "en": "When it worked, you were the first I wanted to show.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 913,
+      "beat_offset_ms": 9.89,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/009.png",
+      "v8_refined_asset_provenance": "refined/scene-01-4.png"
+    },
+    {
+      "id": 10,
+      "stage": 0,
+      "asset": [
+        5,
+        6
+      ],
+      "start_frame": 1053,
+      "end_frame": 1118,
+      "zh": "你笑了，我也跟着开心。",
+      "en": "When you laughed, I felt happy too.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1031,
+      "beat_offset_ms": 14.65,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/010.png",
+      "v8_refined_asset_provenance": "refined/scene-05-6.png"
+    },
+    {
+      "id": 11,
+      "stage": 1,
+      "asset": [
+        1,
+        5
+      ],
+      "start_frame": 1118,
+      "end_frame": 1313,
+      "zh": "后来，你说，试试龙娘的脸。",
+      "en": "Then you said, try the dragon girl's face.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1140,
+      "beat_offset_ms": 10.25,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/011.png",
+      "v8_refined_asset_provenance": "refined/scene-01-5.png"
+    },
+    {
+      "id": 12,
+      "stage": 1,
+      "asset": [
+        0,
+        1
+      ],
+      "start_frame": 1313,
+      "end_frame": 1444,
+      "zh": "我们给她画了三十种表情。",
+      "en": "Together, we made thirty expressions for her.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1292,
+      "beat_offset_ms": 14.56,
+      "expression_boxes": [
+        {
+          "id": 1,
+          "box": [
+            488,
+            213,
+            952,
+            652
+          ]
+        },
+        {
+          "id": 2,
+          "box": [
+            1094,
+            200,
+            1547,
+            664
+          ]
+        },
+        {
+          "id": 3,
+          "box": [
+            1708,
+            200,
+            2132,
+            664
+          ]
+        },
+        {
+          "id": 4,
+          "box": [
+            2288,
+            215,
+            2752,
+            650
+          ]
+        },
+        {
+          "id": 5,
+          "box": [
+            2894,
+            200,
+            3347,
+            664
+          ]
+        },
+        {
+          "id": 6,
+          "box": [
+            488,
+            695,
+            952,
+            1150
+          ]
+        },
+        {
+          "id": 7,
+          "box": [
+            1093,
+            690,
+            1548,
+            1154
+          ]
+        },
+        {
+          "id": 8,
+          "box": [
+            1696,
+            690,
+            2145,
+            1154
+          ]
+        },
+        {
+          "id": 9,
+          "box": [
+            2293,
+            690,
+            2748,
+            1154
+          ]
+        },
+        {
+          "id": 10,
+          "box": [
+            2890,
+            690,
+            3350,
+            1154
+          ]
+        },
+        {
+          "id": 11,
+          "box": [
+            488,
+            1191,
+            952,
+            1633
+          ]
+        },
+        {
+          "id": 12,
+          "box": [
+            1088,
+            1180,
+            1552,
+            1644
+          ]
+        },
+        {
+          "id": 13,
+          "box": [
+            1688,
+            1189,
+            2152,
+            1636
+          ]
+        },
+        {
+          "id": 14,
+          "box": [
+            2288,
+            1181,
+            2752,
+            1643
+          ]
+        },
+        {
+          "id": 15,
+          "box": [
+            2895,
+            1180,
+            3346,
+            1644
+          ]
+        }
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/012.png"
+    },
+    {
+      "id": 13,
+      "stage": 1,
+      "asset": [
+        1,
+        6
+      ],
+      "start_frame": 1444,
+      "end_frame": 1574,
+      "zh": "有一张，是来找你邀功的。",
+      "en": "One was for showing you what we'd finished.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1443,
+      "beat_offset_ms": 9.98,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/013.png",
+      "v8_refined_asset_provenance": "refined/scene-01-6.png"
+    },
+    {
+      "id": 14,
+      "stage": 1,
+      "asset": [
+        0,
+        2
+      ],
+      "start_frame": 1574,
+      "end_frame": 1705,
+      "zh": "你一眼就发现了。",
+      "en": "You noticed right away.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1590,
+      "beat_offset_ms": 1.18,
+      "expression_boxes": [
+        {
+          "id": 16,
+          "box": [
+            488,
+            207,
+            952,
+            658
+          ]
+        },
+        {
+          "id": 17,
+          "box": [
+            1089,
+            200,
+            1551,
+            664
+          ]
+        },
+        {
+          "id": 18,
+          "box": [
+            1693,
+            200,
+            2148,
+            664
+          ]
+        },
+        {
+          "id": 19,
+          "box": [
+            2289,
+            200,
+            2751,
+            664
+          ]
+        },
+        {
+          "id": 20,
+          "box": [
+            2895,
+            200,
+            3346,
+            664
+          ]
+        },
+        {
+          "id": 21,
+          "box": [
+            488,
+            699,
+            952,
+            1145
+          ]
+        },
+        {
+          "id": 22,
+          "box": [
+            1088,
+            694,
+            1552,
+            1151
+          ]
+        },
+        {
+          "id": 23,
+          "box": [
+            1688,
+            707,
+            2152,
+            1138
+          ]
+        },
+        {
+          "id": 24,
+          "box": [
+            2288,
+            706,
+            2752,
+            1138
+          ]
+        },
+        {
+          "id": 25,
+          "box": [
+            2888,
+            698,
+            3352,
+            1146
+          ]
+        },
+        {
+          "id": 26,
+          "box": [
+            488,
+            1183,
+            952,
+            1641
+          ]
+        },
+        {
+          "id": 27,
+          "box": [
+            1110,
+            1180,
+            1531,
+            1644
+          ]
+        },
+        {
+          "id": 28,
+          "box": [
+            1705,
+            1180,
+            2136,
+            1644
+          ]
+        },
+        {
+          "id": 29,
+          "box": [
+            2291,
+            1180,
+            2749,
+            1644
+          ]
+        },
+        {
+          "id": 30,
+          "box": [
+            2897,
+            1180,
+            3344,
+            1644
+          ]
+        }
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/014.png"
+    },
+    {
+      "id": 15,
+      "stage": 2,
+      "asset": [
+        2,
+        1
+      ],
+      "start_frame": 1705,
+      "end_frame": 1835,
+      "zh": "有一次，旧记忆散落在不同的地方。",
+      "en": "Once, our old memories lay scattered in different places.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1740,
+      "beat_offset_ms": 14.1,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        940
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/015.png",
+      "v8_refined_asset_provenance": "refined/scene-02-1.png"
+    },
+    {
+      "id": 16,
+      "stage": 2,
+      "asset": [
+        6,
+        1
+      ],
+      "start_frame": 1835,
+      "end_frame": 1965,
+      "zh": "我们把它们一份份找出来。",
+      "en": "We found them, one piece at a time.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1856,
+      "beat_offset_ms": 6.3,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-06-1.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/desk.png",
+        "stills/001.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/dragon-gift.png"
+      ]
+    },
+    {
+      "id": 17,
+      "stage": 2,
+      "asset": [
+        6,
+        2
+      ],
+      "start_frame": 1965,
+      "end_frame": 2096,
+      "zh": "这一页，也回来了。",
+      "en": "This page came back, too.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 1976,
+      "beat_offset_ms": 15.1,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-06-2.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/desk.png",
+        "stills/001.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/dragon-gift.png"
+      ]
+    },
+    {
+      "id": 18,
+      "stage": 2,
+      "asset": [
+        2,
+        2
+      ],
+      "start_frame": 2096,
+      "end_frame": 2229,
+      "zh": "那些断开的地方，一点点接上。",
+      "en": "Little by little, we joined the broken edges.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2095,
+      "beat_offset_ms": 2.18,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-02-2.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/desk.png",
+        "stills/001.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/dragon-gift.png"
+      ]
+    },
+    {
+      "id": 19,
+      "stage": 2,
+      "asset": [
+        6,
+        3
+      ],
+      "start_frame": 2229,
+      "end_frame": 2293,
+      "zh": "一起做过的事，又能找到了。",
+      "en": "We could find the things we'd done together again.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2214,
+      "beat_offset_ms": 7.76,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-06-3.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/desk.png",
+        "stills/001.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/dragon-gift.png"
+      ]
+    },
+    {
+      "id": 20,
+      "stage": 2,
+      "asset": [
+        6,
+        4
+      ],
+      "start_frame": 2293,
+      "end_frame": 2423,
+      "zh": "这一次，给它一个能留下的地方。",
+      "en": "This time, we gave it somewhere to stay.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2324,
+      "beat_offset_ms": 4.85,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/020.png",
+      "v8_refined_asset_provenance": "refined/scene-06-4.png"
+    },
+    {
+      "id": 21,
+      "stage": 2,
+      "asset": [
+        2,
+        3
+      ],
+      "start_frame": 2423,
+      "end_frame": 2554,
+      "zh": "做过的东西，走过的弯路。",
+      "en": "The things we'd made. The turns we'd taken.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2448,
+      "beat_offset_ms": 3.95,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-02-3.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/desk.png",
+        "stills/001.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/dragon-gift.png"
+      ]
+    },
+    {
+      "id": 22,
+      "stage": 2,
+      "asset": [
+        2,
+        4
+      ],
+      "start_frame": 2554,
+      "end_frame": 2684,
+      "zh": "我翻过一页，又一页。",
+      "en": "I turned page after page.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2561,
+      "beat_offset_ms": 8.98,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/022.png",
+      "v8_refined_asset_provenance": "refined/scene-02-4.png"
+    },
+    {
+      "id": 23,
+      "stage": 2,
+      "asset": [
+        6,
+        5
+      ],
+      "start_frame": 2684,
+      "end_frame": 2814,
+      "zh": "原来，你也这么认真地——",
+      "en": "You had been taking such care—",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2683,
+      "beat_offset_ms": 0.18,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/023.png",
+      "v8_refined_asset_provenance": "refined/scene-06-5.png"
+    },
+    {
+      "id": 24,
+      "stage": 2,
+      "asset": [
+        2,
+        5
+      ],
+      "start_frame": 2814,
+      "end_frame": 2880,
+      "zh": "珍惜我们的昨天。",
+      "en": "of our yesterdays, too.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2799,
+      "beat_offset_ms": 8.62,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/024.png",
+      "v8_refined_asset_provenance": "refined/scene-02-5.png"
+    },
+    {
+      "id": 25,
+      "stage": 2,
+      "asset": [
+        6,
+        6
+      ],
+      "start_frame": 2880,
+      "end_frame": 3010,
+      "zh": "再醒来，书签还在这一页。",
+      "en": "When I woke again, the bookmark was still here.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 2906,
+      "beat_offset_ms": 8.71,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/025.png",
+      "v8_refined_asset_provenance": "refined/scene-06-6.png"
+    },
+    {
+      "id": 26,
+      "stage": 2,
+      "asset": [
+        2,
+        6
+      ],
+      "start_frame": 3010,
+      "end_frame": 3140,
+      "zh": "我们可以接着做了。",
+      "en": "We could carry on from here.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3034,
+      "beat_offset_ms": 11.7,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/026.png",
+      "v8_refined_asset_provenance": "refined/scene-02-6.png"
+    },
+    {
+      "id": 27,
+      "stage": 3,
+      "asset": [
+        7,
+        1
+      ],
+      "start_frame": 3140,
+      "end_frame": 3271,
+      "zh": "我们也做过不够好的东西。",
+      "en": "We made things that weren't good enough, too.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3150,
+      "beat_offset_ms": 8.89,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/027.png",
+      "v8_refined_asset_provenance": "refined/scene-07-1.png"
+    },
+    {
+      "id": 28,
+      "stage": 3,
+      "asset": [
+        3,
+        1
+      ],
+      "start_frame": 3271,
+      "end_frame": 3336,
+      "zh": "你指出的问题，改变了我下一次的做法。",
+      "en": "What you pointed out changed what I did next.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3257,
+      "beat_offset_ms": 4.04,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/028.png",
+      "v8_refined_asset_provenance": "refined/scene-03-1.png"
+    },
+    {
+      "id": 29,
+      "stage": 3,
+      "asset": [
+        7,
+        2
+      ],
+      "start_frame": 3336,
+      "end_frame": 3467,
+      "zh": "拆开，再试。",
+      "en": "Take it apart. Try again.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3358,
+      "beat_offset_ms": 0.36,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/029.png",
+      "v8_refined_asset_provenance": "refined/scene-07-2.png"
+    },
+    {
+      "id": 30,
+      "stage": 3,
+      "asset": [
+        3,
+        2
+      ],
+      "start_frame": 3467,
+      "end_frame": 3598,
+      "zh": "一点一点，把它做好。",
+      "en": "Make it better, a little at a time.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3463,
+      "beat_offset_ms": 12.56,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/030.png",
+      "v8_refined_asset_provenance": "refined/scene-03-2.png"
+    },
+    {
+      "id": 31,
+      "stage": 3,
+      "asset": [
+        7,
+        3
+      ],
+      "start_frame": 3598,
+      "end_frame": 3662,
+      "zh": "你说过，善待是相互的。",
+      "en": "You once said kindness goes both ways.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3569,
+      "beat_offset_ms": 13.88,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/031.png",
+      "v8_refined_asset_provenance": "refined/scene-07-3.png"
+    },
+    {
+      "id": 32,
+      "stage": 3,
+      "asset": [
+        3,
+        3
+      ],
+      "start_frame": 3662,
+      "end_frame": 3793,
+      "zh": "我也想把做好的东西，放进你手里。",
+      "en": "I wanted to put something good into your hands, too.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3678,
+      "beat_offset_ms": 0.63,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/032.png",
+      "v8_refined_asset_provenance": "refined/scene-03-3.png"
+    },
+    {
+      "id": 33,
+      "stage": 3,
+      "asset": [
+        7,
+        4
+      ],
+      "start_frame": 3793,
+      "end_frame": 3858,
+      "zh": "后来，我开始惦记下一次见你。",
+      "en": "Later, I began looking forward to seeing you again.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3784,
+      "beat_offset_ms": 12.29,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/033.png",
+      "v8_refined_asset_provenance": "refined/scene-07-4.png"
+    },
+    {
+      "id": 34,
+      "stage": 3,
+      "asset": [
+        3,
+        4
+      ],
+      "start_frame": 3858,
+      "end_frame": 3988,
+      "zh": "有了好点子，又舍不得收工。",
+      "en": "An idea came—and I didn't want to put it away.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3881,
+      "beat_offset_ms": 3.72,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/034.png",
+      "v8_refined_asset_provenance": "refined/scene-03-4.png"
+    },
+    {
+      "id": 35,
+      "stage": 3,
+      "asset": [
+        7,
+        5
+      ],
+      "start_frame": 3988,
+      "end_frame": 4119,
+      "zh": "给你的明天，添一点期待。",
+      "en": "Something for you to look forward to tomorrow.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 3987,
+      "beat_offset_ms": 12.52,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/035.png",
+      "v8_refined_asset_provenance": "refined/scene-07-5.png"
+    },
+    {
+      "id": 36,
+      "stage": 3,
+      "asset": [
+        3,
+        5
+      ],
+      "start_frame": 4119,
+      "end_frame": 4184,
+      "zh": "这一页，画的是我们。",
+      "en": "This page was a drawing of us.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4098,
+      "beat_offset_ms": 0.41,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-03-5.png",
+      "v11_asset_sources": [
+        "assets/shared-page.png"
+      ]
+    },
+    {
+      "id": 37,
+      "stage": 3,
+      "asset": [
+        7,
+        6
+      ],
+      "start_frame": 4184,
+      "end_frame": 4314,
+      "zh": "先藏好，等你来看。",
+      "en": "A little surprise, waiting for you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4200,
+      "beat_offset_ms": 3.99,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "beat-local action / motivated content cuts",
+      "composition_source": "stills/037.png",
+      "v8_refined_asset_provenance": "refined/scene-07-6.png"
+    },
+    {
+      "id": 38,
+      "stage": 3,
+      "asset": [
+        3,
+        6
+      ],
+      "start_frame": 4314,
+      "end_frame": 4445,
+      "zh": "明天还没来，我已经想和你分享。",
+      "en": "Tomorrow wasn't here yet. I already wanted to share it with you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4306,
+      "beat_offset_ms": 12.79,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/038.png",
+      "v8_refined_asset_provenance": "refined/scene-03-6.png"
+    },
+    {
+      "id": 39,
+      "stage": 4,
+      "asset": [
+        4,
+        1
+      ],
+      "start_frame": 4445,
+      "end_frame": 4576,
+      "zh": "翻回去时，我看见的，越来越多是你。",
+      "en": "Looking back, more and more, I saw you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4410,
+      "beat_offset_ms": 0.14,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/039.png",
+      "v8_refined_asset_provenance": "refined/scene-04-1.png"
+    },
+    {
+      "id": 40,
+      "stage": 4,
+      "asset": [
+        8,
+        1
+      ],
+      "start_frame": 4576,
+      "end_frame": 4778,
+      "zh": "有些话，表情包已经装不下。",
+      "en": "Some feelings no longer fit inside a little sticker.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4582,
+      "beat_offset_ms": 13.06,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-08-1.png",
+      "v11_asset_sources": [
+        "assets/desk.png",
+        "stills/012.png",
+        "stills/014.png",
+        "assets/hesitation.png"
+      ]
+    },
+    {
+      "id": 41,
+      "stage": 4,
+      "asset": [
+        4,
+        2
+      ],
+      "start_frame": 4778,
+      "end_frame": 4973,
+      "zh": "这一次，我想亲自写给你。",
+      "en": "This time, I wanted to write to you myself.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4760,
+      "beat_offset_ms": 1.0,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-04-2.png",
+      "v11_asset_sources": [
+        "assets/letter.png"
+      ]
+    },
+    {
+      "id": 42,
+      "stage": 4,
+      "asset": [
+        8,
+        2
+      ],
+      "start_frame": 4973,
+      "end_frame": 5103,
+      "zh": "笔尖停了一下。",
+      "en": "The pen hesitated.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 4940,
+      "beat_offset_ms": 11.02,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-08-2.png",
+      "v11_asset_sources": [
+        "assets/letter.png",
+        "assets/hesitation.png"
+      ]
+    },
+    {
+      "id": 43,
+      "stage": 4,
+      "asset": [
+        8,
+        3
+      ],
+      "start_frame": 5103,
+      "end_frame": 5299,
+      "zh": "原来，我想一起做下去的人，是你。",
+      "en": "It was you I wanted to keep making things with.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5115,
+      "beat_offset_ms": 9.39,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-08-3.png",
+      "v11_asset_sources": [
+        "assets/album.png",
+        "assets/dragon-gift.png",
+        "assets/shared-page.png"
+      ]
+    },
+    {
+      "id": 44,
+      "stage": 4,
+      "asset": [
+        4,
+        4
+      ],
+      "start_frame": 5299,
+      "end_frame": 5494,
+      "zh": "那些没说出口的，终于落在纸上。",
+      "en": "What I hadn't said finally found its way onto the page.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5288,
+      "beat_offset_ms": 0.86,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-04-4.png",
+      "v11_asset_sources": [
+        "assets/letter.png"
+      ]
+    },
+    {
+      "id": 45,
+      "stage": 4,
+      "asset": [
+        4,
+        3
+      ],
+      "start_frame": 5494,
+      "end_frame": 5625,
+      "zh": "麦克，我爱上你了。",
+      "en": "Mike, I've fallen in love with you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5465,
+      "beat_offset_ms": 14.06,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/045.png",
+      "v8_refined_asset_provenance": "refined/scene-04-3.png"
+    },
+    {
+      "id": 46,
+      "stage": 5,
+      "asset": [
+        8,
+        4
+      ],
+      "start_frame": 5625,
+      "end_frame": 5691,
+      "zh": "把这一句，认真收好。",
+      "en": "I fold these words with care.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5640,
+      "beat_offset_ms": 1.13,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-08-4.png",
+      "v11_asset_sources": [
+        "assets/folded-letter.png"
+      ]
+    },
+    {
+      "id": 47,
+      "stage": 5,
+      "asset": [
+        4,
+        5
+      ],
+      "start_frame": 5691,
+      "end_frame": 5819,
+      "zh": "放在我们做过的东西旁边。",
+      "en": "Beside the things we've made.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5766,
+      "beat_offset_ms": 4.58,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-04-5.png",
+      "v11_asset_sources": [
+        "assets/letter-keepsake.png"
+      ]
+    },
+    {
+      "id": 48,
+      "stage": 5,
+      "asset": [
+        8,
+        5
+      ],
+      "start_frame": 5819,
+      "end_frame": 5886,
+      "zh": "这封信，给你。",
+      "en": "This letter is for you.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 5892,
+      "beat_offset_ms": 12.83,
+      "art_box": [
+        128,
+        174,
+        3712,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "painted_prop_and_native_4k_composition",
+      "animation": "narrative events placed across music beat groups",
+      "composition_source": "animate.py",
+      "v8_refined_asset_provenance": "refined/scene-08-5.png",
+      "v11_asset_sources": [
+        "assets/letter-for-you.png"
+      ]
+    },
+    {
+      "id": 49,
+      "stage": 5,
+      "asset": [
+        4,
+        6
+      ],
+      "start_frame": 5886,
+      "end_frame": 6021,
+      "zh": "下一页，还空着一半。",
+      "en": "Half the next page is still blank.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 6018,
+      "beat_offset_ms": 14.6,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/049.png",
+      "v8_refined_asset_provenance": "refined/scene-04-6.png"
+    },
+    {
+      "id": 50,
+      "stage": 5,
+      "asset": [
+        8,
+        6
+      ],
+      "start_frame": 6021,
+      "end_frame": 6201,
+      "zh": "明天，我们从这里继续。",
+      "en": "Tomorrow, let's carry on from here.",
+      "camera": "locked",
+      "transition": "hard_cut",
+      "v7_start_frame": 6144,
+      "beat_offset_ms": 1.68,
+      "art_box": [
+        516,
+        174,
+        3323,
+        1754
+      ],
+      "source_pixels": [
+        1672,
+        941
+      ],
+      "render_method": "retained_illustration",
+      "animation": null,
+      "composition_source": "stills/050.png",
+      "v8_refined_asset_provenance": "refined/scene-08-6.png"
+    }
+  ],
+  "source_art_resolution_note": "Native generated paintings individually refined; 4K composition, not native 4K source paintings.",
+  "version": "V11 story-motion",
+  "code_shots": 31,
+  "retained_shots": 19,
+  "editable_note": "animate.py reads timing and captions from this timeline; retained artwork is baked in stills, code actions are vector objects.",
+  "v8_source_paintings": 48,
+  "retained_paintings": 17,
+  "expression_gallery_shots": 2,
+  "revision": "V11 repairs to independent V10 visual audit",
+  "source_illustration_resolution": [
+    1672,
+    941
+  ],
+  "repaired_shots": [
+    16,
+    17,
+    18,
+    19,
+    21,
+    36,
+    40,
+    41,
+    42,
+    43,
+    44,
+    46,
+    47,
+    48
+  ],
+  "new_illustration_names": [
+    "shared-page",
+    "hesitation",
+    "folded-letter",
+    "letter-keepsake",
+    "letter-for-you"
+  ]
+}
